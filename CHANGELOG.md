@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](///compare/v0.0.12...v0.2.0) (2022-08-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* **teste:** Fizemos muitas coisas
+
+### Funcionalidades
+
+* **app:** teste de mudança de conteúdo 7948223
+
+
+### Refatoração
+
+* **teste:** adiciona meu nome completo a3f2cb1
+
+
+### Tarefa
+
+* **release:** 0.1.0 [skip ci] 5cc540c
+
 ## [0.1.0](///compare/v0.0.12...v0.1.0) (2022-08-05)
 
 
