@@ -1,9 +1,13 @@
+import ExampleTable from "./Components/ExampleTable";
+import TesteTable from "./Components/TesteTable";
+
 function App() {
 
   return (
-    <div className="App">
-      <h1>Bruno Netto de Souza Rosa</h1>
-    </div>
+    <>
+      <ExampleTable />
+      <TesteTable />
+    </>
   )
 }
 
