@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](///compare/v0.0.4...v0.0.5) (2022-08-05)
+
+
+### Bug Fixes
+
+* **app:** muda o conteúdo da tag h1 a78b784
+
 ### [0.0.4](///compare/v0.0.3...v0.0.4) (2022-08-05)
 
 ### [0.0.3](///compare/v0.0.2...v0.0.3) (2022-08-05)
