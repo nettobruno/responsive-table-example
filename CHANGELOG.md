@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](///compare/v0.0.10...v0.0.11) (2022-08-05)
+
+
+### Funcionalidades
+
+* **app:** remove conteúdo da tag h1 d5c0c56
+
+
+### Errors Corrigidos
+
+* **assets:** adiciona conteúdo na tag h1 e cria pasta e arquivo novo 9e67f36
+
 ### [0.0.10](///compare/v0.0.9...v0.0.10) (2022-08-05)
 
 
