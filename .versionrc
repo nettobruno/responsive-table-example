@@ -2,12 +2,12 @@
     "types": [
         {"type": "feat", "section": "Funcionalidades"},
         {"type": "fix", "section": "Errors Corrigidos"},
-        {"type": "chore", "hidden": true},
-        {"type": "docs", "hidden": true},
-        {"type": "style", "hidden": true},
-        {"type": "refactor", "hidden": true},
+        {"type": "chore", "section": "Tarefa"},
+        {"type": "docs", "section": "Documentação"},
+        {"type": "style", "section": "Estilo"},
+        {"type": "refactor", "section": "Refatoração"},
         {"type": "perf", "section": "Melhorias de Performance"},
-        {"type": "test", "hidden": true}
+        {"type": "test", "section": "Testes"}
     ],
     "releaseCommitMessageFormat": "chore(release): {{currentTag}} [skip ci]"
 }
