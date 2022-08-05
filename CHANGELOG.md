@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](///compare/v0.0.5...v0.0.6) (2022-08-05)
+
+
+### Funcionalidades
+
+* **versionrc:** adicionando configurações do projeto a3a4e0d
+
 ### [0.0.5](///compare/v0.0.4...v0.0.5) (2022-08-05)
 
 
